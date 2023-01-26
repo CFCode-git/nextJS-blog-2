@@ -14,7 +14,7 @@
     "next": "9.4.4",
     "react": "16.13.1",
     "react-dom": "16.13.1",
-    "ua-parser-js": "^0.7.21"
+    "ua-parser-js": "^0.7.33"
   },
   "devDependencies": {
     "@types/axios": "^0.14.0",
